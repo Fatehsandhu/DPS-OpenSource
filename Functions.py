@@ -13,6 +13,8 @@ print last
 # Gets the File Size
 print os.path.getsize(path)
 
+
+# The Hash Functions
 print("Sha 1 Digest")
 
 hash_object = hashlib.sha1(path)
