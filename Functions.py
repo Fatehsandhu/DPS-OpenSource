@@ -10,6 +10,7 @@ last = last[-1]
 
 print last
 
+# Gets the File Size
 print os.path.getsize(path)
 
 print("Sha 1 Digest")
