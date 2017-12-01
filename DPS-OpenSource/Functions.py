@@ -25,6 +25,3 @@ def MD5(path):
     print("MD5 Digest")
     hash_object = hashlib.md5(path)
     return hash_object.hexdigest()
-
-
-print "End of functions"
