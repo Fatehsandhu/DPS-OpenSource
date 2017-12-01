@@ -3,8 +3,7 @@ import os
 import hashlib
 
 
-filepath = "/Users/fatehsandhu/test.txt"
-
+# Gets the File Name
 def fileName(path):
     last = path.split('/')
     return last[-1]
