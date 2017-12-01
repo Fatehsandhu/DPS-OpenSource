@@ -6,13 +6,13 @@ import sys
 
 path = "/Users/fatehsandhu/test.txt"
 
-def fileName():
+def fileName(path):
     last = path.split('/')
     last = last[-1]
     print last
 
 # Gets the File Size
-def fileSize():
+def fileSize(path):
     print os.path.getsize(path)
 
 
