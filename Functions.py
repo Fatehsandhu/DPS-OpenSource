@@ -1,6 +1,7 @@
 #!/usr/bin/python
 import os
 import hashlib
+import sys
 
 
 path = "/Users/fatehsandhu/test.txt"
