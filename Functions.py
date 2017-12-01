@@ -8,8 +8,7 @@ path = "/Users/fatehsandhu/test.txt"
 
 def fileName(path):
     last = path.split('/')
-    last = last[-1]
-    print last
+    return last[-1]
 
 # Gets the File Size
 def fileSize(path):
