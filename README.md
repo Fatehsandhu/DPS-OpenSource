@@ -10,7 +10,7 @@ Links to the various files
 | Test file | [test_auth.py] |
 | License | [License.txt]  |
 
-###Functions Implemented
+### Functions Implemented
 
 In the Functions file -->
   1. Gets the filename from the entire URL
