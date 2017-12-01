@@ -2,7 +2,6 @@
 import os
 import hashlib
 
-
 # Gets the File Name
 def fileName(path):
     last = path.split('/')
