@@ -1,6 +1,10 @@
- language: python
-  python:
-    - 3.6
-    - nightly
-  script:
-    - pytest
+language: python
+sudo: false
+
+python:
+    - "3.6"
+install:
+  - pip install -U pytest
+
+script:
+  - pytest 
