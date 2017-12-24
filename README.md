@@ -10,12 +10,14 @@ Links to the various files
 | Test file | [test_auth.py] |
 | License | [License.txt]  |
 
-### Functions Implemented
+### Functions Implemented in [Functions.py]
 
-In the Functions file -->
-  1. Gets the filename from the entire URL
-  2. Gets the size of the file
-  3. Creates the SHA1 and MD5 hashes 
+| Function | Description |
+| ------ | ------ |
+| fileName(path)  | Gets the filename from the entire URL |
+| fileSize(path) | Gets the size of the file |
+| SHA(path) | Creates the SHA1 hash |
+| MD5(path) | Creates the MD5 hash |
 
 [Functions.py]: <https://github.com/Fatehsandhu/DPS-OpenSource/blob/master/DPS-OpenSource/Functions.py>
 [test_auth.py]: <https://github.com/Fatehsandhu/DPS-OpenSource/blob/master/DPS-OpenSource/test_auth.py>
