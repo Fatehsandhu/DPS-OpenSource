@@ -23,7 +23,7 @@ Links to the various files
 [test_auth.py]: <https://github.com/Fatehsandhu/DPS-OpenSource/blob/master/DPS-OpenSource/test_auth.py>
 [License.txt]: <https://github.com/Fatehsandhu/DPS-OpenSource/blob/master/License.txt>
 
-### Table Of Contents
+### Example
 
 ```python
 # Get SHA hash
