@@ -22,3 +22,13 @@ Links to the various files
 [Functions.py]: <https://github.com/Fatehsandhu/DPS-OpenSource/blob/master/DPS-OpenSource/Functions.py>
 [test_auth.py]: <https://github.com/Fatehsandhu/DPS-OpenSource/blob/master/DPS-OpenSource/test_auth.py>
 [License.txt]: <https://github.com/Fatehsandhu/DPS-OpenSource/blob/master/License.txt>
+
+### Table Of Contents
+
+```python
+# Get SHA hash
+hash = SHA('/DPS-OpenSource/test_file.txt'):
+
+# print the SHA hash value
+print hash
+```
